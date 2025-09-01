@@ -1,0 +1,5 @@
+# macOS 缓存
+.DS_Store
+
+# Obsidian 临时/个性化配置
+.obsidian/
