@@ -11,14 +11,10 @@
             "id": "3d50a4249a7f9cc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算理论.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "计算理论"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,6 +164,7 @@
   },
   "active": "05cb36016091220f",
   "lastOpenFiles": [
+    "计算理论.pdf",
     "计算理论.md",
     "计算理论.md的替身"
   ]
